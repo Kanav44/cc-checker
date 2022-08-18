@@ -2,7 +2,7 @@
   "name": "cc-checker",
   "version": "1.0.0",
   "main": "index.html",
-  "repository": "https://github.com/br0keh/cc-checker.git",
+  "repository": "https://github.com/Kanav44/cc-checker",
   "author": "br0keh",
   "scripts": {
     "build": "echo BUILDING"
